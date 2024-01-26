@@ -9,15 +9,16 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^4.4.0"
+    "vite": "^5.0.12"
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-editor-classic": "^38.1.1",
-    "@ckeditor/ckeditor5-essentials": "^38.1.1",
+    "@ckeditor/ckeditor5-editor-classic": "^41.0.0",
+    "@ckeditor/ckeditor5-essentials": "^41.0.0",
     "@ckeditor/ckeditor5-inspector": "^4.1.0",
-    "@ckeditor/ckeditor5-paragraph": "^38.1.1",
-    "@ckeditor/ckeditor5-theme-lark": "^38.1.1",
+    "@ckeditor/ckeditor5-paragraph": "^41.0.0",
+    "@ckeditor/ckeditor5-table": "^41.0.0",
+    "@ckeditor/ckeditor5-theme-lark": "^41.0.0",
     "@ckeditor/vite-plugin-ckeditor5": "^0.1.3",
-    "ckeditor5": "^38.1.1"
+    "ckeditor5": "^41.0.0"
   }
 }
